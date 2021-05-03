@@ -1,4 +1,4 @@
-# bootcamp
+# data science bootcamp tec mty
 
 This is a repository that includes all the  work done in the Tec de Mty Data Science Bootcamp.
 Team projects are post on independent repositories.
