@@ -15,3 +15,4 @@ Challenges from bootcamp:
 8. Web design challenge: Mission to mars
 9. Web scrapping challenge: Mission to mars
 10. Javascript challenge: counting UFOs 
+11. Plotly challenge: belly buttom biodiversity
